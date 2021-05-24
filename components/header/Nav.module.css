@@ -1,0 +1,14 @@
+.NavLink {
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+    text-decoration: none;
+    color: #525252;
+    font-size: 12pt;
+}
+
+.NavLink:hover {
+    outline: 1px solid #000;
+    border-radius: 5%;
+}

@@ -1,0 +1,32 @@
+.Logo {
+    color: #ffbb00;
+    font-weight: 800;
+    font-size: 40pt;
+    display: flex;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    justify-content: center;    
+    font-family: "Open Sans", "Roboto", sans-serif
+}
+
+.Logo:hover {
+    color: #525252;
+    cursor: pointer;
+}
+
+.Title {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #525252;
+    font-size: 24pt;
+    font-family: "Open Sans", "Roboto", sans-serif;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+}
+
+.Links {
+    display: flex;
+    align-items: center;
+}
