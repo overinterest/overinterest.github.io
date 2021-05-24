@@ -1,5 +1,9 @@
+import { Layout } from "@components";
+
 const Home = () => {
-  return <div>FIRST HOME INIT</div>
-}
+    return <div>HOME</div>;
+};
 
 export default Home;
+ 
+Home.Layout = Layout;

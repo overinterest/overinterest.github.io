@@ -1,0 +1,19 @@
+.Header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    color: #000;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+}
+
+.Content {
+    padding: 10px;
+    background-color: #eee;
+}
+
+.Layout {
+    display: flex;
+    flex-direction: column;
+}
